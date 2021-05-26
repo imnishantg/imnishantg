@@ -2,7 +2,7 @@
 
 My interest in Data Science and Design Thinking pulled me towards the career path of a Data Scientist. With an aim to further my knowledge and experience in ML/AI-based product design, development, and deployment; I am continuously on a lookout for opportunities of advancement.
 
-Currently, I am working as a Data Science Manager at ZS developing ML/AI-based products and solutions for a technology client. I have ~8 years of experience in ML, AI, and advanced analytics.
+Currently, I am working as a Data Science Manager at ZS developing ML/AI-based products and solutions for a technology client. I have ~9 years of experience in ML, AI, and advanced analytics.
 
 I hold a Bachelor's degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (University of Delhi).
 
