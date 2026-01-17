@@ -1,24 +1,9 @@
-### Hi there 👋
+In my 13+ years of experience, I've engaged in conceptualizing, designing, developing, and deploying AI (and Gen AI) powered products and solutions across pharmaceuticals, insurance, healthcare, high tech, realty, finance, and other industries.
 
-My interest in Data Science and Design Thinking pulled me towards the career path of a Data Scientist. With an aim to further my knowledge and experience in ML/AI-based product design, development, and deployment; I am continuously on a lookout for opportunities of advancement.
+Currently, I'm focused on creating multi-agent systems to automate operations and decision making processes. My responsibilities include working closely with domain experts on new problem areas, deeply understanding the challenges, conceptualizing solutions, and leading cross-functional teams to build 0-to-1 products. It also includes me working with executive leadership and sales team to plan and execute product marketing and commercialization.
 
-Currently, I am working as a Data Science Manager at ZS developing ML/AI-based products and solutions for a technology client. I have ~9 years of experience in ML, AI, and advanced analytics.
+Through my work and independent learning, I have developed expertise in cross-pollinating concepts and frameworks of ML/AI, design thinking, and many other domains to solve novel problems. My future aspiration is to tackle increasingly complex and system level challenges to develop innovative solutions.
 
-I hold a Bachelor's degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (University of Delhi).
+I'm pursuing Executive MBA from The Wharton School alongside my full time job. I hold a Bachelor's degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (University of Delhi). 
 
-More details will be added soon...
-
-<!--
-**imnishantg/imnishantg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've orthogonal interest in exploring AI application in VC, PE, public policy, and other relatively untouched areas. I'm continuously on the outlook for new challenges and opportunities. 
